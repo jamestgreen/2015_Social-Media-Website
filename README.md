@@ -1,2 +1,2 @@
-# 2015_Sprout-Design-Challenge
-A website for Sprout Social.
+# 2015_Social-Media-Website
+A website for a social media company.
