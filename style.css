@@ -232,8 +232,8 @@ nav {
 	padding-right: .9375rem;
 	padding-left: .9375rem;
 	font-size: .75rem;
-	color: #fff;
-	background-color: #7ac143;
+	color: #000000;
+	background-color: #00fff6;
 	border-color: transparent;
 	position: relative;
 	display: inline-block;
@@ -254,7 +254,8 @@ nav {
 }
 
 .nav_button:hover {
-	background-color: #61a62b;
+	background-color: #30d0ca;
+	color:#ffffff;
 }
 
 .cta_button {
@@ -268,8 +269,8 @@ nav {
 	padding-left: 1.5625rem;
 	font-size: 1rem;
 	text-decoration: none;
-	color: #fff;
-	background-color: #7ac143;
+	color: #000000;
+	background-color: #00fff6;
 	border-color: transparent;
 	position: relative;
 	display: inline-block;
@@ -288,7 +289,8 @@ nav {
 }
 
 .cta_button:hover {
-	background-color: #61a62b;
+	background-color: #30d0ca;
+	color:#ffffff;
 }
 
 /* Intro Slide */
@@ -308,7 +310,7 @@ video#bgvid {
 /* Info Slides */
 
 .info_slide {
-	background-color:#7ac143;
+	background-color:#000000;
 	}
 
 .facebook_slide {
